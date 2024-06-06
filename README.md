@@ -18,18 +18,18 @@
 **Technologies Used:** Python, Pandas, Numpy, PyTube, Matplotlib, Mediapipe, OpenCV, Tensorflow, Tensorflow.Keras, CNN, LSTM
 
 ### [Omega Ad Classifier](https://github.com/hongweileeee/ds_portfolio/tree/main/GA_Project-4_Mild_Stroke_Prediction)
-**Summary:** Transient Ischemic Attacks (more commonly known as mild strokes) is a warning sign for a full blown stroke, however we currently require MRI scans to identify if a patient has experienced a TIA as symptoms are temporary and damage may be minimal. We hypothesised that unsupervised learning can be employed to distinctly identify clusters and attributes for patients who have identified mild stroke, based on a kaggle dataset.
-
-**Key Objectives:** Create a multi-classifier that identifies between patients who have experienced a stroke, mild stroke (TIA) or no stroke.
-
-**Technologies Used:** Python, Pandas, Matplotlib, Scikit-Learn, Random Forest, Support Vector, Gradient Boost, Logistic Regression, K-Means Clustering, Hierarchical Clustering, DBScan
-
-### [Mild Stroke Predictor](https://github.com/hongweileeee/ds_portfolio/tree/main/GA_Project-3_Omega_Ad_Classifier)
 **Summary:** Within the advertising industry, subjectivity is very apparent (E.g. is the use of one word better than another?). This subjectivity gives low confidence to marketing teams before investing in an idea. We propose that between two rival companies such as Omega and Cartier, a binary text classifier could be used to show how relevant an advertisement headline is to their customers' voice.
 
 **Key Objectives:** Create a binary classifier using Natural Language Processing to identify if a headline resonates with Omega or Cartier's customers.
 
 **Technologies Used:** Python, Pandas, Matplotlib, Scikit-Learn, BeautifulSoup, CountVectorisation, TF-IDF Vectorisation, Naive Bayes, Logistic Regression, Random Forest
+
+### [Mild Stroke Predictor](https://github.com/hongweileeee/ds_portfolio/tree/main/GA_Project-3_Omega_Ad_Classifier)
+**Summary:** Transient Ischemic Attacks (more commonly known as mild strokes) is a warning sign for a full blown stroke, however we currently require MRI scans to identify if a patient has experienced a TIA as symptoms are temporary and damage may be minimal. We hypothesised that unsupervised learning can be employed to distinctly identify clusters and attributes for patients who have identified mild stroke, based on a kaggle dataset.
+
+**Key Objectives:** Create a multi-classifier that identifies between patients who have experienced a stroke, mild stroke (TIA) or no stroke.
+
+**Technologies Used:** Python, Pandas, Matplotlib, Scikit-Learn, Random Forest, Support Vector, Gradient Boost, Logistic Regression, K-Means Clustering, Hierarchical Clustering, DBScan
 
 ### [HDB Resale Price Predictor for Families](https://github.com/hongweileeee/ds_portfolio/tree/main/GA_Project-2_HDB_Resale_Price_Prediction)
 **Summary:** The number of first-timer family applicants of HDB flats has increased. Families are looking for flats that can benefit their children and yield a financial return, however estimates of a HDB flat's resale unit is typically a best guess from property agencies. We aim to add a layer of objectivity based on previous HDB resale values to predict HDB resale prices based on family-oriented features.
